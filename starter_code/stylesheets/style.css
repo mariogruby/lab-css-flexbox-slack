@@ -118,7 +118,7 @@ h1 {
 .menu {
     display: none;
 }
-/* acá empiezo con la primer seccion */
+
 #background-ivory {
     background-color: #F3EAE2;
     padding-bottom: 50px;
@@ -151,7 +151,7 @@ h1 {
 #logos img {
     padding-top: 20px;
 }
-/* segunda seccionn */
+
 .big-img {
     width: 95vw;
     margin-bottom: 50px;
@@ -176,7 +176,7 @@ h1 {
 .information a {
     text-decoration: none;
 }
-/* percentages section */
+
 #percentages {
     background-color: white;
     padding-top: 80px;
@@ -250,7 +250,7 @@ li {
     color: white;
     padding-bottom: 20px;
 }
-/* here is the FOOOOTER */
+
 #logo-slack {
     width: 50px;
     padding-top: 30px;
